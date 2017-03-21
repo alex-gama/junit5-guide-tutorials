@@ -38,5 +38,4 @@ public class BeforeAndAfterWithJUnit5Test {
 		System.out.println("AfterAll - Executing after all tests run");
 	}
 	
-	
 }
